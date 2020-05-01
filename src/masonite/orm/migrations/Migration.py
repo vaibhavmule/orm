@@ -5,7 +5,7 @@ Migrations needs to:
     * Generate migration files
 """
 import os
-from os import listdir, path
+from os import listdir
 from os.path import isfile, join
 from pydoc import locate
 

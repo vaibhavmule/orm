@@ -1,5 +1,4 @@
 import sqlite3
-from ..grammar import GrammarFactory
 from .BaseConnection import BaseConnection
 
 
