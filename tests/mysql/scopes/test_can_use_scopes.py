@@ -1,4 +1,3 @@
-import inspect
 import unittest
 
 from app.User import User

@@ -1,4 +1,3 @@
-import inspect
 import unittest
 
 from src.masonite.orm.testing import BaseTestCaseSelectGrammar

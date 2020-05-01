@@ -1,4 +1,3 @@
-from src.masonite.orm.grammar.mysql_grammar import MySQLGrammar
 from src.masonite.orm.builder import QueryBuilder
 from src.masonite.orm.grammar import GrammarFactory
 from src.masonite.orm.models import Model

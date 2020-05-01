@@ -1,5 +1,4 @@
 import unittest
-from src.masonite.orm.grammar.mssql_grammar import MSSQLGrammar
 from app.User import User
 from src.masonite.orm.collection import Collection
 from src.masonite.orm.models import Model

@@ -1,5 +1,5 @@
 from src.masonite.orm.builder import QueryBuilder
-from src.masonite.orm.grammar import GrammarFactory, MySQLGrammar
+from src.masonite.orm.grammar import GrammarFactory
 import unittest
 import inspect
 
